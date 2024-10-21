@@ -27,7 +27,7 @@ This is a simple Python script that fetches and displays the current weather inf
     pip install -r requirements.txt
     ```
 
-3. Create a `.env` file in the root directory and add your OpenWeatherMap API key:
+3. The `.env` file with the OpenWeatherMap API key is included in the repository. However, if you want to use your own API key, you can modify the `.env` file:
     ```sh
     echo "API_KEY=your_api_key_here" > .env
     ```
